@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rnine</h1>
-<h3 align="center">A passionate back end developer from Kazakhstan</h3>
+<h3 align="center">A passionate overengineer from Kazakhstan</h3>
 
 - Graduate of [Imperial College London](https://github.com/ImperialCollegeLondon)
 - Previously [BofA](https://github.com/bankofamerica) and [Tessian](https://github.com/Tessian)
