@@ -3,6 +3,7 @@
 
 - Graduate of [Imperial College London](https://github.com/ImperialCollegeLondon)
 - Previously [BofA](https://github.com/bankofamerica) and [Tessian](https://github.com/Tessian)
+- Currently building [Compass](https://github.com/CompassLabs)
 - I’m currently learning **ZKML**
 
 <h3 align="left">Languages and Tools:</h3>
