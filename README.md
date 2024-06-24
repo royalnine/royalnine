@@ -13,4 +13,4 @@
 
 - 🥇 [ETHGlobal 2022, VoltzLiquid - Voltz Protocol Best Use Case](https://ethglobal.com/showcase/voltzliquid-44htn)
 - 🥇 [ETHLondon 2023, TokenomGo - Aztec Protocol Best Overall Noir Application](https://arc.net/l/quote/eorpqldq)
-- 🥇 [AI Agents Gizathon, 2024 - AiDala: AI Agent for bitcoin miners - Top Agents Implemenation using Giza](https://x.com/encodeclub/status/1803797494431711643), [repo](https://github.com/ai-dala/zkml-solution)
+- 🥇 [AI Agents Gizathon 2024, AiDala: AI Agent for bitcoin miners - Top Agents Implemenation using Giza](https://x.com/encodeclub/status/1803797494431711643), [repo](https://github.com/ai-dala/zkml-solution)
